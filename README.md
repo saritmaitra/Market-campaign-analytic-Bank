@@ -1,6 +1,6 @@
 # Market-campaign-analytic-Bank
-The predictive analytics is powerful and tield a substantial ROI.
-There are several case studies and live examples avaiable in different business environment as below:
+The predictive analytics is powerful and yield a substantial ROI.
+There are several use cases and live examples avaiable in different business environment as below:
 - Bank uses predictive analytics to increase campaign response rates by 600%,
 cut customer acquisition costs in half, and boost campaign ROI by 100%.
 - University predicts whether a student will choose to enroll by applying
